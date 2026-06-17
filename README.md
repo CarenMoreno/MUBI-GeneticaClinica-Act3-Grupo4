@@ -515,3 +515,6 @@ Este repositorio es de uso académico en el marco del Máster Universitario en B
 
 *Máster Universitario en Bioinformática · UNIR · Curso 2026*  
 *Asignatura: Genética Clínica y de Poblaciones*
+
+---
+## Poster
