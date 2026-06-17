@@ -236,9 +236,9 @@ LEPR truncada (615 aa):
                     ─────────────────────────────────────────────
                     Dominio unión leptina | Motivo WSXWS (622-626)
                     Región extracelular   | Dominio transmembrana
-                                         | Motivo Box 1 (871-879)
-                                         | Región activación JAK2 (893-898)
-                                         | Dominio señalización STAT3
+                                          | Motivo Box 1 (871-879)
+                                          | Región activación JAK2 (893-898)
+                                          | Dominio señalización STAT3
 ```
 
 > 📎 Ver: `Resultados/LEPR_dominios_wt_vs_truncada.png`
