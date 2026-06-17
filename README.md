@@ -278,13 +278,13 @@ El receptor truncado conserva la capacidad de **unirse a leptina** (dominio 467�
                           ▼                                                     │
     NÚCLEO ARCUATO HIPOTALÁMICO                                                 │
                           │                                                     │
-                    [LEPR-b] ──► JAK2 ──► pSTAT3 ──► POMC                     │
+                    [LEPR-b] ──► JAK2 ──► pSTAT3 ──► POMC                       │
                           │                               │                     │
-                          │                         [α-MSH / β-MSH]            │
+                          │                         [α-MSH / β-MSH]             │
                           │                               │                     │
                     NÚCLEO PARAVENTRICULAR                │                     │
                           │                               ▼                     │
-                          │                         [MC4R] ──► Gαs ──► AMPc   │
+                          │                         [MC4R] ──► Gαs ──► AMPc     │
                           │                                            │        │
                           │                                         [PKA]       │
                           │                                            │        │
