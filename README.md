@@ -127,7 +127,7 @@ VCF (Abraham + Maggie)
 
 ---
 
-## 📊 Resultados
+## Resultados
 
 ### Tabla 1. Variantes identificadas (GRCh38)
 
