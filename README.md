@@ -178,6 +178,9 @@ El receptor de melanocortina 4 (MC4R, UniProt P32245) es un receptor acoplado a 
    ─────────────────────────────────────────────────
    Intracelular
 ```
+<p align="center">
+  <img src="Resultados/Localización MC4R UniProt.png" width="400">
+</p>
 
 ### Conservación evolutiva (Clustal Omega)
 
