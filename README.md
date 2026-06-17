@@ -304,6 +304,10 @@ El alineamiento múltiple de secuencias ortólogas de MC4R en **7 especies** (de
 
 > 📎 Ver: `Clustal_Omega/alineamiento_MC4R_clustal_omega.png`
 
+<p align="center">
+  <img src="Clustal_Omega/alineamineto MCRA clustal omega.png" width="600">
+</p>
+
 La **prolina** tiene una estructura cíclica única: su grupo amino forma parte de un anillo pirrolidina, lo que elimina el enlace N-H típico y le confiere rigidez estructural. Esto la convierte en un "rompehélices" que determina la curvatura precisa del loop ECL3. La sustitución **Pro→His** introduce un aminoácido con cadena lateral imidazólica, perdiendo completamente esta rigidez estructural y alterando la conformación del sitio de unión a α-MSH.
 
 ### Predicción de patogenicidad
