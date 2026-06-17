@@ -221,6 +221,10 @@ La estructura predicha por AlphaFold (AF-P32245) muestra que Pro272 forma parte 
 
 La deleción `c.1790del` en LEPR (NM_002303.6) produce un **corrimiento del marco de lectura** desde el residuo Ser597, con aparición de un codón de parada prematuro en la posición Ter20 del nuevo marco de lectura. La traducción con **Biomodel** confirmó:
 
+<p align="center">
+  <img src="Resultados/Localización LEPR UniProt.png" width="400">
+</p>
+
 | | Proteína wt | Proteína truncada |
 |---|---|---|
 | **Longitud** | 1.165 aminoácidos | 615 aminoácidos |
