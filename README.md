@@ -518,3 +518,4 @@ Este repositorio es de uso académico en el marco del Máster Universitario en B
 
 ---
 ## Poster
+![Poster](poster/Poster.pptx)
