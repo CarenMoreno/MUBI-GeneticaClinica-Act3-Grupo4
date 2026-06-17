@@ -363,7 +363,7 @@ LEPR truncada (615 aa):
 > 📎 Ver: `Resultados/LEPR_dominios_wt_vs_truncada.png`
 
 <p align="center">
-  <img src="Resultados/LEPR_dominios_wt_vs_truncada.png" width="600">
+  <img src="Resultados/LEPR_dominios_wt_vs_truncada.png" width="500">
 </p>
 
 ### Consecuencia funcional
