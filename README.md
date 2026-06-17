@@ -3,7 +3,7 @@
 
 > **Grupo 4** · Lote 2 (Par) · Equipo 4 (Par)  
 > **Individuos analizados:** Abraham Simpson (abuelo) y Maggie Simpson (nieta)  
-> **Autores:** Analia Pastrana Jiménez · Caren Moreno · Ángel Guerrero
+> **Autores:** Analia Pastrana · Caren Moreno · Ángel Guerrero
 
 ---
 
