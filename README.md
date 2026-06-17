@@ -115,9 +115,9 @@ de las variantes identificadas en los genes MC4R, LEPR, TP53 y MED12.
 
 ## Licencia
 
-Trabajo académico — UNIR 2025/2026. Solo para uso educativo. 
+Trabajo académico  UNIR 2026. Solo para uso educativo. 
 
-# 🧬 Anotación e Interpretación de Variantes Genéticas — Familia Simpson
+# 🧬 Anotación e Interpretación de Variantes Genéticas - Familia Simpson
 ### Genética Clínica y de Poblaciones · Máster Universitario en Bioinformática · UNIR
 
 > **Grupo 4** · Lote 2 (Par) · Equipo 4 (Par)  
@@ -196,7 +196,7 @@ Tejido adiposo
                                     ↑ GASTO ENERGÉTICO
 ```
 
-Defectos en cualquier punto de esta cascada producen **hiperfagia y obesidad de inicio temprano**. Los genes analizados en este trabajo — **LEPR** y **MC4R** — son dos nodos críticos de este eje.
+Defectos en cualquier punto de esta cascada producen **hiperfagia y obesidad de inicio temprano**. Los genes analizados en este trabajo - **LEPR** y **MC4R** - son dos nodos críticos de este eje.
 
 ---
 
@@ -281,7 +281,7 @@ VCF (Abraham + Maggie)
 
 ---
 
-## 🔴 Análisis MC4R — p.(Pro272His)
+## 🔴 Análisis MC4R - p.(Pro272His)
 
 ### Localización en la proteína
 
@@ -315,7 +315,7 @@ La **prolina** tiene una estructura cíclica única: su grupo amino forma parte 
 | Frecuencia gnomAD | 0 (ausente) | Mutación rara |
 | Conservación evolutiva | 100% | Residuo crítico |
 
-### Visualización AlphaFold — MC4R
+### Visualización AlphaFold - MC4R
 
 La estructura predicha por AlphaFold (AF-P32245) muestra que Pro272 forma parte del ápex del loop ECL3, donde interacciona con residuos adyacentes que contribuyen al bolsillo de unión del ligando. La sustitución por histidina desestabiliza este loop, reduciendo la afinidad del receptor por α-MSH y bloqueando la activación de la adenilato ciclasa.
 
@@ -327,7 +327,7 @@ La estructura predicha por AlphaFold (AF-P32245) muestra que Pro272 forma parte 
 
 ---
 
-## 🟡 Análisis LEPR — p.(Ser597IlefsTer20)
+## 🟡 Análisis LEPR - p.(Ser597IlefsTer20)
 
 ### Impacto de la deleción frameshift
 
@@ -362,7 +362,7 @@ LEPR truncada (615 aa):
 
 El receptor truncado conserva la capacidad de **unirse a leptina** (dominio 467–484 intacto) pero es **completamente incapaz de transducir la señal intracelular** por pérdida de todos los dominios de señalización (transmembrana, JAK2, STAT3). Es una **pérdida de función total**.
 
-### Visualización AlphaFold — LEPR
+### Visualización AlphaFold - LEPR
 
 > 💡 **Recomendación para visualizar en AlphaFold:**
 > 1. Acceder a https://alphafold.ebi.ac.uk/entry/P48357
@@ -430,8 +430,8 @@ Porta en **heterocigosis** la variante **MC4R c.815C>A p.(Pro272His)**. Al trata
 
 Porta **dos variantes** independientes:
 
-1. **MC4R c.815C>A p.(Pro272His)** en heterocigosis — heredada de Abraham — responsable del fenotipo de obesidad (AD)
-2. **LEPR c.1790del p.(Ser597IlefsTer20)** en heterocigosis — portadora, no causa fenotipo por ser AR — pero añade riesgo acumulativo si se expresara en homocigosis en generaciones futuras
+1. **MC4R c.815C>A p.(Pro272His)** en heterocigosis - heredada de Abraham - responsable del fenotipo de obesidad (AD)
+2. **LEPR c.1790del p.(Ser597IlefsTer20)** en heterocigosis - portadora, no causa fenotipo por ser AR - pero añade riesgo acumulativo si se expresara en homocigosis en generaciones futuras
 
 El **fenotipo actual de Maggie** se explica principalmente por MC4R. La variante LEPR en heterocigosis la convierte en portadora de una segunda variante de pérdida de función que podría tener consecuencias en su descendencia.
 
