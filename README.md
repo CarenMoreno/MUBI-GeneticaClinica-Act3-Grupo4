@@ -256,14 +256,14 @@ VCF (Abraham + Maggie)
 | **Transcrito (MANE Select)** | NM_005912.3 / ENST00000299766.5 | NM_002303.6 / ENST00000349533.11 |
 | **HGVS c.** | `c.815C>A` | `c.1790del` |
 | **HGVS p.** | `p.(Pro272His)` | `p.(Ser597IlefsTer20)` |
-| **Tipo de variante** | SNP — missense | Deleción — frameshift |
+| **Tipo de variante** | SNP - missense | Deleción - frameshift |
 | **Cigosidad** | Heterocigoto (Abraham **y** Maggie) | Heterocigoto (solo Maggie) |
 | **Frecuencia gnomAD v4** | **Ausente** (frec. = 0) | **Ausente** (frec. = 0) |
 | **Frecuencia 1000G** | No reportada | No reportada |
-| **Clasificación** | ⚠️ **MUTACIÓN** | ⚠️ **MUTACIÓN** |
+| **Clasificación** | **MUTACIÓN** | **MUTACIÓN** |
 | **SIFT** | 0 (Deleterious) | No aplica (frameshift) |
 | **PolyPhen-2** | 1.0 (Probably damaging) | No aplica (frameshift) |
-| **Proteína (UniProt)** | MC4R — P32245 | LEPR — P48357 |
+| **Proteína (UniProt)** | MC4R - P32245 | LEPR - P48357 |
 
 ### Tabla 2. Asociación a enfermedad (OMIM)
 
