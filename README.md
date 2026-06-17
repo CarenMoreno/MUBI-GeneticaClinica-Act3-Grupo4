@@ -456,13 +456,13 @@ El **fenotipo actual de Maggie** se explica principalmente por MC4R. La variante
 
 Para enriquecer el análisis estructural de las proteínas, recomendamos visualizar las estructuras en AlphaFold junto con las variantes identificadas:
 
-### MC4R (P32245) — p.(Pro272His)
+### MC4R (P32245) - p.(Pro272His)
 - URL: https://alphafold.ebi.ac.uk/entry/P32245
 - Residuo de interés: **Pro272** en el loop ECL3
 - Importancia: El ápex del loop ECL3 determina la especificidad de unión al ligando. La confianza pLDDT en esta región es alta (>85), indicando una predicción estructural robusta
 - Comparar con estructura experimental: PDB 6W4Y (MC4R con agonista)
 
-### LEPR (P48357) — p.(Ser597IlefsTer20)
+### LEPR (P48357) - p.(Ser597IlefsTer20)
 - URL: https://alphafold.ebi.ac.uk/entry/P48357
 - Región de interés: aa 597–1165 (región eliminada por el truncamiento)
 - El dominio transmembrana (aa ~800–820) aparece como una hélice α de alta confianza
