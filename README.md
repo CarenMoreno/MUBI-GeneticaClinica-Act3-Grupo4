@@ -362,6 +362,10 @@ LEPR truncada (615 aa):
 
 > 📎 Ver: `Resultados/LEPR_dominios_wt_vs_truncada.png`
 
+<p align="center">
+  <img src="Resultados/LEPR_dominios_wt_vs_truncada.png" width="600">
+</p>
+
 ### Consecuencia funcional
 
 El receptor truncado conserva la capacidad de **unirse a leptina** (dominio 467–484 intacto) pero es **completamente incapaz de transducir la señal intracelular** por pérdida de todos los dominios de señalización (transmembrana, JAK2, STAT3). Es una **pérdida de función total**.
