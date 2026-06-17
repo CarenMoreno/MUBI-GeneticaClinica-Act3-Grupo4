@@ -249,15 +249,15 @@ LEPR truncada (615 aa):
 
 ### Consecuencia funcional
 
-El receptor truncado conserva la capacidad de **unirse a leptina** (dominio 467–484 intacto) pero es **completamente incapaz de transducir la señal intracelular** por pérdida de todos los dominios de señalización (transmembrana, JAK2, STAT3). Es una **pérdida de función total**.
+El receptor truncado conserva la capacidad de **unirse a leptina** (dominio 467-484 intacto) pero es **completamente incapaz de transducir la señal intracelular** por pérdida de todos los dominios de señalización (transmembrana, JAK2, STAT3). Es una **pérdida de función total**.
 
 ### Visualización AlphaFold - LEPR
 
 > 💡 **Recomendación para visualizar en AlphaFold:**
 > 1. Acceder a https://alphafold.ebi.ac.uk/entry/P48357
-> 2. Seleccionar la región 597–1165 para visualizar los dominios eliminados
+> 2. Seleccionar la región 597-1165 para visualizar los dominios eliminados
 > 3. El dominio transmembrana (TM) aparece como una hélice α compacta en la región ~800–820
-> 4. Los dominios JAK2-binding (893–898) y Box1 (871–879) son regiones yuxtamembrana críticas
+> 4. Los dominios JAK2-binding (893-898) y Box1 (871-879) son regiones yuxtamembrana críticas
 > 5. Para la proteína truncada: usar la secuencia de `fastaMutante` con AlphaFold Colab
 
 ---
