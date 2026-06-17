@@ -166,7 +166,7 @@ VCF (Abraham + Maggie)
 
 ### Localización en la proteína
 
-El receptor de melanocortina 4 (MC4R, UniProt P32245) es un receptor acoplado a proteína G (GPCR) con **7 dominios transmembrana**. La Pro272 se localiza en el **loop extracelular ECL3** (residuos 268–279), entre las hélices transmembrana TM6 (244–267) y TM7 (280–302).
+El receptor de melanocortina 4 (MC4R, UniProt P32245) es un receptor acoplado a proteína G (GPCR) con **7 dominios transmembrana**. La Pro272 se localiza en el **loop extracelular ECL3** (residuos 268-279), entre las hélices transmembrana TM6 (244-267) y TM7 (280-302).
 
 ```
    Extracelular
