@@ -1,7 +1,7 @@
 # 🧬 Anotación e Interpretación de Variantes Genéticas - Familia Simpson
 ### Genética Clínica y de Poblaciones · Máster Universitario en Bioinformática · UNIR
 
-> **Grupo 4** · Lote 2 (Par) · Equipo 4 (Par)  
+> **Grupo 4** · Lote = Mentoria 2 · Equipo 4  
 > **Individuos analizados:** Abraham Simpson (abuelo) y Maggie Simpson (nieta)  
 > **Autores:** Analia Pastrana · Caren Moreno · Ángel Guerrero
 
