@@ -1,4 +1,4 @@
-# 🧬 Anotación e Interpretación de Variantes Genéticas - Familia Simpson
+# 🧬 Anotación e Interpretación de Variantes Genéticas. Familia Simpson
 ### Genética Clínica y de Poblaciones · Máster Universitario en Bioinformática · UNIR
 
 > **Grupo 4** · Lote = Mentoria 2 · Equipo 4  
