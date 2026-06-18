@@ -153,13 +153,6 @@ VCF (Abraham + Maggie)
 | **MC4R** | Obesidad / deficiencia de MC4R (BMIQ20) | #618406 | 155541 | 18q21.32 | Autosómica dominante |
 | **LEPR** | Obesidad mórbida por deficiencia del receptor de leptina | #614963 | 601007 | 1p31.3 | Autosómica recesiva |
 
-### Tabla 3. Otras variantes identificadas
-
-| Gen | HGVS c. | HGVS p. | Individuo | SIFT / PolyPhen | Clasificación | Relevancia |
-|---|---|---|---|---|---|---|
-| **TP53** | c.215C>G | p.(Pro72Leu) | Abraham y Maggie | Tolerado / Benigno | Polimorfismo (rs1042522) | Sin relación con obesidad |
-| **MED12** | c.629C>T | p.(Ala210Val) | Abraham | No deleterious | VUS | Sin relación con obesidad |
-
 ---
 
 ## 🔴 Análisis MC4R - p.(Pro272His)
