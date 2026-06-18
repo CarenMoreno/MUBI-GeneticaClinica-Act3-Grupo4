@@ -2,7 +2,7 @@
 ### Genética Clínica y de Poblaciones · Máster Universitario en Bioinformática · UNIR
 
 > **Grupo 4** · Lote = Mentoria 2 · Equipo 4  
-> **Individuos analizados:** Abraham Simpson (abuelo, generación I) y Maggie Simpson (Nieta, generación II)  
+> **Individuos analizados:** Abraham Simpson (Abuelo, generación I) y Maggie Simpson (Nieta, generación II)  
 > **Autores:** Analia Pastrana · Caren Moreno · Ángel Guerrero
 
 ---
