@@ -20,15 +20,15 @@ El objetivo fue ponernos en el rol de genetistas clínicos para identificar, ano
 ```
 📦 variant-annotation-simpsons/
 │
-├── 📂 VCF/
+├── VCF/
 │   ├── AbrahamSimpson.vcf          # Archivo de variantes de Abraham Simpson
 │   └── MaggieSimpson.vcf           # Archivo de variantes de Maggie Simpson
 │
-├── 📂 VEP/
+├── VEP/
 │   ├── AbrahamSimpson.vep          # Output completo de Ensembl VEP (Abraham)
 │   └── MaggieSimpson.vep           # Output completo de Ensembl VEP (Maggie)
 │
-├── 📂 FASTA/
+├── FASTA/
 │   ├── fastagrupo                                          # Secuencias ortólogas MC4R para Clustal Omega
 │   ├── fastaMutante                                        # Secuencia mutante MC4R p.(Pro272His)
 │   ├── Homo_sapiens_ENSP00000299766_3_sequence.fa          # MC4R humano (proteína)
@@ -37,10 +37,10 @@ El objetivo fue ponernos en el rol de genetistas clínicos para identificar, ano
 │   ├── Loxodonta_africana_ENSLAFP00000016384_2_sequence.fa # MC4R Loxodonta africana
 │   └── [+ 4 secuencias ortólogas adicionales]              # Ver carpeta FASTA/
 │
-├── 📂 Clustal_Omega/
+├── Clustal_Omega/
 │   └── alineamiento_MC4R_clustal_omega.png    # Alineamiento múltiple Pro272 conservada
 │
-├── 📂 Resultados/
+├── Resultados/
 │   ├── LEPR_dominios_wt_vs_truncada.png       # Proteína LEPR wt vs. truncada (Biomodel)
 │   ├── ruta_metabolica.png                    # Ruta leptina-melanocortina (KEGG/Reactome)
 │   ├── R-HSA-388596.pdf                       # Ruta Reactome: señalización leptina
@@ -48,10 +48,10 @@ El objetivo fue ponernos en el rol de genetistas clínicos para identificar, ano
 │   ├── R-HSA-2586552.pdf                      # Ruta Reactome: señalización MC4R/AMPc
 │   └── R-HSA-2586552.png                      # Ruta Reactome (imagen)
 │
-├── 📂 Anexos/
+├── Anexos/
 │   └── Anexos_Genetica_Poblaciones.docx       # Capturas: VEP, gnomAD, UniProt, Biomodel, KEGG
 │
-├── 📂 Poster/
+├── Poster/
 │   └── Poster_Grupo4_Abraham_Maggie.pptx      # Póster científico final (entrega)
 │
 └── README.md                                  # Este archivo
