@@ -298,6 +298,9 @@ VARIANTE MC4R p.(Pro272His) → RECEPTOR NO FUNCIONAL → NO AMPc → HIPERFAGIA
 VARIANTE LEPR c.1790del → RECEPTOR TRUNCADO → NO JAK2/STAT3 → NO POMC
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+<p align="center">
+  <img src="Resultados/Via señalización MC4R AMPc.png" width="600">
+</p>
 
 ### Consecuencias moleculares
 
